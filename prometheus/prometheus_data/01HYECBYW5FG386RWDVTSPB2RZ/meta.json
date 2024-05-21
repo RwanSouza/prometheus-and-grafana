@@ -1,0 +1,17 @@
+{
+	"ulid": "01HYECBYW5FG386RWDVTSPB2RZ",
+	"minTime": 1715995871780,
+	"maxTime": 1715997600000,
+	"stats": {
+		"numSamples": 107815,
+		"numSeries": 845,
+		"numChunks": 1005
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HYECBYW5FG386RWDVTSPB2RZ"
+		]
+	},
+	"version": 1
+}
